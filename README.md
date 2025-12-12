@@ -1,4 +1,4 @@
-# GR5074_Project2_SentimentAnalysis
+# GR5074_Group2_Project3_SentimentAnalysis
 **Columbia University · Advanced Machine Learning (GR5074)**
 
 **Team Members:**
