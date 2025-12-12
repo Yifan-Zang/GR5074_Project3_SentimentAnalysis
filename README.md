@@ -2,7 +2,7 @@
 **Columbia University · Advanced Machine Learning (GR5074)**
 
 **Team Members:**
-- Sofia Giogianni
+- Sofia Giorgianni
 - Xingyu Shi
 - Yifan Zang
 
